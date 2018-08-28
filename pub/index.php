@@ -7,6 +7,8 @@
  */
 
 echo "hello";
+echo "hello";
+echo "hello";
 
 
 use Magento\Framework\App\Bootstrap;
