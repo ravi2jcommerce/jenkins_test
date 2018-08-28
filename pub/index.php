@@ -6,7 +6,8 @@
  * See COPYING.txt for license details.
  */
 
-echo "jekins test1234444444444444444444";
+echo "jekins test1234";
+echo "jekins test1234";
 
 
 use Magento\Framework\App\Bootstrap;
