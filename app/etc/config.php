@@ -58,7 +58,7 @@ return [
         'Magento_ImportExport' => 1,
         'Magento_Weee' => 1,
         'Magento_Authorizenet' => 1,
-        'Magento_Newsletter' => 0,
+        'Magento_Newsletter' => 1,
         'Magento_EncryptionKey' => 1,
         'Magento_Fedex' => 1,
         'Magento_GiftMessage' => 1,
