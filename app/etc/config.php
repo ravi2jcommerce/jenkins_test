@@ -15,7 +15,7 @@ return [
         'Magento_Cms' => 1,
         'Magento_Rule' => 1,
         'Magento_Backup' => 1,
-        'Magento_Catalog' => 0,
+        'Magento_Catalog' => 1,
         'Magento_Bundle' => 1,
         'Magento_BundleImportExport' => 1,
         'Magento_Search' => 1,
